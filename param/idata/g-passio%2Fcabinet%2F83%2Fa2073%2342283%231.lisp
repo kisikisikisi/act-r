@@ -1,0 +1,6 @@
+(setf *image-struct* '(("g-passio%2Fcabinet%2F83%2Fa2073%2342283%231" 10 10 10 10 BLUE)
+("clothing" 0 430 10 471 GREEN)
+("yellow" 128 430 10 445 GREEN)
+("shorts" 256 430 10 414 GREEN)
+("board-short" 384 430 10 400 GREEN)
+("active-shorts" 512 430 10 397 GREEN)))

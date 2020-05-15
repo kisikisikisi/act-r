@@ -1,0 +1,6 @@
+(setf *image-struct* '(("4091%2F4902370544091" 10 10 10 10 BLUE)
+("product" 0 430 10 423 GREEN)
+("playset" 128 430 10 391 GREEN)
+("play" 256 430 10 387 GREEN)
+("toy" 384 430 10 384 GREEN)
+("games" 512 430 10 362 GREEN)))

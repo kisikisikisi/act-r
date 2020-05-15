@@ -1,0 +1,6 @@
+(setf *image-struct* '(("dtop11%2F857531%23main01" 10 10 10 10 BLUE)
+("clothing" 0 430 10 471 GREEN)
+("white" 128 430 10 463 GREEN)
+("sleeve" 256 430 10 447 GREEN)
+("neck" 384 430 10 413 GREEN)
+("outerwear" 512 430 10 389 GREEN)))

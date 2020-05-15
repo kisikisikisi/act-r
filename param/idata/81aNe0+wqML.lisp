@@ -1,0 +1,5 @@
+(setf *image-struct* '(("81aNe0+wqML" 10 10 10 10 BLUE)
+("magazine" 0 430 10 435 GREEN)
+("footwear" 160 430 10 336 GREEN)
+("advertising" 320 430 10 296 GREEN)
+("publication" 480 430 10 248 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("book%2Fcabinet%2F7805%2F2100011837805" 10 10 10 10 BLUE)
+("text" 0 430 10 474 GREEN)
+("font" 128 430 10 472 GREEN)
+("white" 256 430 10 458 GREEN)
+("product" 384 430 10 423 GREEN)
+("line" 512 430 10 397 GREEN)))

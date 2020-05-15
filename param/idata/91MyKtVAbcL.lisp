@@ -1,0 +1,6 @@
+(setf *image-struct* '(("91MyKtVAbcL" 10 10 10 10 BLUE)
+("cartoon" 0 430 10 454 GREEN)
+("animated-cartoon" 128 430 10 404 GREEN)
+("clip-art" 256 430 10 343 GREEN)
+("graphics" 384 430 10 304 GREEN)
+("illustration" 512 430 10 241 GREEN)))

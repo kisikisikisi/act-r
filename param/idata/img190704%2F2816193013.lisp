@@ -1,0 +1,6 @@
+(setf *image-struct* '(("img190704%2F2816193013" 10 10 10 10 BLUE)
+("home-game-console-accessory" 0 430 10 370 GREEN)
+("technology" 128 430 10 341 GREEN)
+("anime" 256 430 10 320 GREEN)
+("electronic-device" 384 430 10 317 GREEN)
+("fictional-character" 512 430 10 316 GREEN)))

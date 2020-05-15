@@ -1,0 +1,6 @@
+(setf *image-struct* '(("shohin%2F07226119%2Fjrk21" 10 10 10 10 BLUE)
+("clothing" 0 430 10 461 GREEN)
+("outerwear" 128 430 10 426 GREEN)
+("sportswear" 256 430 10 422 GREEN)
+("vest" 384 430 10 422 GREEN)
+("orange" 512 430 10 401 GREEN)))

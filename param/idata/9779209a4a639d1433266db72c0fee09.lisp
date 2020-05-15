@@ -1,0 +1,6 @@
+(setf *image-struct* '(("9779209a4a639d1433266db72c0fee09" 10 10 10 10 BLUE)
+("american-lobster" 0 430 10 475 GREEN)
+("rock-crab" 128 430 10 473 GREEN)
+("homarus" 256 430 10 469 GREEN)
+("lobster" 384 430 10 465 GREEN)
+("homarus-gammarus" 512 430 10 464 GREEN)))

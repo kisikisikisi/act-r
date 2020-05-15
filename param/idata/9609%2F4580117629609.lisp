@@ -1,0 +1,6 @@
+(setf *image-struct* '(("9609%2F4580117629609" 10 10 10 10 BLUE)
+("text" 0 430 10 475 GREEN)
+("font" 128 430 10 472 GREEN)
+("white" 256 430 10 465 GREEN)
+("line" 384 430 10 425 GREEN)
+("product" 512 430 10 423 GREEN)))

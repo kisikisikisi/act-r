@@ -1,0 +1,6 @@
+(setf *image-struct* '(("1920aw#alp%2Falp1920104-sq1" 10 10 10 10 BLUE)
+("clothing" 0 430 10 472 GREEN)
+("white" 128 430 10 465 GREEN)
+("sleeve" 256 430 10 464 GREEN)
+("sweater" 384 430 10 461 GREEN)
+("long-sleeved-t-shirt" 512 430 10 458 GREEN)))

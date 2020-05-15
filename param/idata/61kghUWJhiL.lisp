@@ -1,0 +1,6 @@
+(setf *image-struct* '(("61kghUWJhiL" 10 10 10 10 BLUE)
+("people" 0 430 10 463 GREEN)
+("social-group" 128 430 10 451 GREEN)
+("sky" 256 430 10 413 GREEN)
+("youth" 384 430 10 411 GREEN)
+("event" 512 430 10 341 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("06619009%2Fimgrc0109656707" 10 10 10 10 BLUE)
+("laptop" 0 430 10 474 GREEN)
+("netbook" 128 430 10 460 GREEN)
+("electronic-device" 256 430 10 456 GREEN)
+("technology" 384 430 10 454 GREEN)
+("product" 512 430 10 444 GREEN)))

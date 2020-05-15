@@ -1,0 +1,6 @@
+(setf *image-struct* '(("ca7a40598cb381b70bcb8e58b182e6e4" 10 10 10 10 BLUE)
+("musical-instrument" 0 430 10 472 GREEN)
+("clarinet-family" 128 430 10 453 GREEN)
+("wind-instrument" 256 430 10 445 GREEN)
+("bass-oboe" 384 430 10 378 GREEN)
+("indian-musical-instruments" 512 430 10 374 GREEN)))

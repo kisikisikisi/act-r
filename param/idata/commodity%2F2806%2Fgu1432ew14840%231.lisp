@@ -1,0 +1,6 @@
+(setf *image-struct* '(("commodity%2F2806%2Fgu1432ew14840%231" 10 10 10 10 BLUE)
+("clothing" 0 430 10 475 GREEN)
+("sleeve" 128 430 10 450 GREEN)
+("crop-top" 256 430 10 447 GREEN)
+("neck" 384 430 10 436 GREEN)
+("shoulder" 512 430 10 433 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("images#02%2F4902370535709" 10 10 10 10 BLUE)
+("gadget" 0 430 10 448 GREEN)
+("product" 128 430 10 448 GREEN)
+("electronic-device" 256 430 10 425 GREEN)
+("technology" 384 430 10 418 GREEN)
+("playstation-portable" 512 430 10 415 GREEN)))

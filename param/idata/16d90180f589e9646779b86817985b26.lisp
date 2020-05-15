@@ -1,0 +1,6 @@
+(setf *image-struct* '(("16d90180f589e9646779b86817985b26" 10 10 10 10 BLUE)
+("product" 0 430 10 451 GREEN)
+("water" 128 430 10 436 GREEN)
+("brown" 256 430 10 433 GREEN)
+("beauty" 384 430 10 410 GREEN)
+("tan" 512 430 10 402 GREEN)))

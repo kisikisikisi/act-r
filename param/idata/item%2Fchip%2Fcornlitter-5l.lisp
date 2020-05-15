@@ -1,0 +1,6 @@
+(setf *image-struct* '(("item%2Fchip%2Fcornlitter-5l" 10 10 10 10 BLUE)
+("erinaceidae" 0 430 10 476 GREEN)
+("hedgehog" 128 430 10 475 GREEN)
+("domesticated-hedgehog" 256 430 10 474 GREEN)
+("porcupine" 384 430 10 465 GREEN)
+("echidna" 512 430 10 463 GREEN)))

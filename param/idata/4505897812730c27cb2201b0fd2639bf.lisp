@@ -1,0 +1,6 @@
+(setf *image-struct* '(("4505897812730c27cb2201b0fd2639bf" 10 10 10 10 BLUE)
+("food" 0 430 10 405 GREEN)
+("yellow" 128 430 10 401 GREEN)
+("gelatin-dessert" 256 430 10 367 GREEN)
+("gelatin" 384 430 10 315 GREEN)
+("cuisine" 512 430 10 310 GREEN)))

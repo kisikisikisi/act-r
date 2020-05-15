@@ -1,0 +1,6 @@
+(setf *image-struct* '(("288881%2F16460896%2F1-1-1%2F602b52a008d14b50bb8a376538f34873" 10 10 10 10 BLUE)
+("land-vehicle" 0 430 10 478 GREEN)
+("vehicle" 128 430 10 475 GREEN)
+("car" 256 430 10 473 GREEN)
+("motor-vehicle" 384 430 10 462 GREEN)
+("product" 512 430 10 451 GREEN)))

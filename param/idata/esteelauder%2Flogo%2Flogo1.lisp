@@ -1,0 +1,6 @@
+(setf *image-struct* '(("esteelauder%2Flogo%2Flogo1" 10 10 10 10 BLUE)
+("text" 0 430 10 467 GREEN)
+("white" 128 430 10 462 GREEN)
+("font" 256 430 10 451 GREEN)
+("logo" 384 430 10 374 GREEN)
+("line" 512 430 10 350 GREEN)))

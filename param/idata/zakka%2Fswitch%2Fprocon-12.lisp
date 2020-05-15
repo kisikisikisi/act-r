@@ -1,0 +1,6 @@
+(setf *image-struct* '(("zakka%2Fswitch%2Fprocon-12" 10 10 10 10 BLUE)
+("gadget" 0 430 10 427 GREEN)
+("technology" 128 430 10 357 GREEN)
+("electronic-device" 256 430 10 340 GREEN)
+("carbon" 384 430 10 337 GREEN)
+("game-controller" 512 430 10 303 GREEN)))

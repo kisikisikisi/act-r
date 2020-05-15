@@ -1,0 +1,6 @@
+(setf *image-struct* '(("pc-max-shop%2Fcabinet%2F05472648%2F05472649%2F05473183%2Fimgrc0069892944" 10 10 10 10 BLUE)
+("laptop" 0 430 10 474 GREEN)
+("electronic-device" 128 430 10 457 GREEN)
+("technology" 256 430 10 455 GREEN)
+("netbook" 384 430 10 439 GREEN)
+("multimedia" 512 430 10 425 GREEN)))

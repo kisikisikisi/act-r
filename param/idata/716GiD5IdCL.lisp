@@ -1,0 +1,6 @@
+(setf *image-struct* '(("716GiD5IdCL" 10 10 10 10 BLUE)
+("xbox-360" 0 430 10 454 GREEN)
+("action-adventure-game" 128 430 10 427 GREEN)
+("home-game-console-accessory" 256 430 10 420 GREEN)
+("technology" 384 430 10 403 GREEN)
+("pc-game" 512 430 10 372 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("retom%2Fcabinet%2Fitem201808%2F8817-fdj-i1" 10 10 10 10 BLUE)
+("clothing" 0 430 10 472 GREEN)
+("jeans" 128 430 10 460 GREEN)
+("sweatpant" 256 430 10 445 GREEN)
+("khaki" 384 430 10 439 GREEN)
+("sportswear" 512 430 10 434 GREEN)))

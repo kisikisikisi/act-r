@@ -1,0 +1,6 @@
+(setf *image-struct* '(("e-cutestyle%2Fcabinet%2Fimg022%2Fp003000009369%231" 10 10 10 10 BLUE)
+("laptop" 0 430 10 476 GREEN)
+("electronic-device" 128 430 10 451 GREEN)
+("netbook" 256 430 10 451 GREEN)
+("technology" 384 430 10 450 GREEN)
+("product" 512 430 10 436 GREEN)))

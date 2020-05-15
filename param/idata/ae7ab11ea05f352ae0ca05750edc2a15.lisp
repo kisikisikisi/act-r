@@ -1,0 +1,6 @@
+(setf *image-struct* '(("ae7ab11ea05f352ae0ca05750edc2a15" 10 10 10 10 BLUE)
+("vacuum-cleaner" 0 430 10 453 GREEN)
+("floor" 128 430 10 441 GREEN)
+("carpet-sweeper" 256 430 10 416 GREEN)
+("household-cleaning-supply" 384 430 10 366 GREEN)
+("home-appliance" 512 430 10 366 GREEN)))

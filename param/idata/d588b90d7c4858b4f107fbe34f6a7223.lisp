@@ -1,0 +1,6 @@
+(setf *image-struct* '(("d588b90d7c4858b4f107fbe34f6a7223" 10 10 10 10 BLUE)
+("furniture" 0 430 10 452 GREEN)
+("room" 128 430 10 412 GREEN)
+("desk" 256 430 10 349 GREEN)
+("material-property" 384 430 10 335 GREEN)
+("table" 512 430 10 322 GREEN)))

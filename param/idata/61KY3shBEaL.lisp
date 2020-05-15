@@ -1,0 +1,6 @@
+(setf *image-struct* '(("61KY3shBEaL" 10 10 10 10 BLUE)
+("spoon-lure" 0 430 10 453 GREEN)
+("fish-hook" 128 430 10 450 GREEN)
+("fishing-lure" 256 430 10 421 GREEN)
+("bait" 384 430 10 416 GREEN)
+("fishing-bait" 512 430 10 415 GREEN)))

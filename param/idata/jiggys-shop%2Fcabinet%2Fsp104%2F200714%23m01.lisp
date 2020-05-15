@@ -1,0 +1,6 @@
+(setf *image-struct* '(("jiggys-shop%2Fcabinet%2Fsp104%2F200714%23m01" 10 10 10 10 BLUE)
+("jeans" 0 430 10 474 GREEN)
+("denim" 128 430 10 466 GREEN)
+("clothing" 256 430 10 466 GREEN)
+("waist" 384 430 10 426 GREEN)
+("pocket" 512 430 10 389 GREEN)))

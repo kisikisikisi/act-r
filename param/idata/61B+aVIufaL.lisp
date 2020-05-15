@@ -1,0 +1,6 @@
+(setf *image-struct* '(("61B+aVIufaL" 10 10 10 10 BLUE)
+("fictional-character" 0 430 10 435 GREEN)
+("cg-artwork" 128 430 10 390 GREEN)
+("mythology" 256 430 10 354 GREEN)
+("mythical-creature" 384 430 10 320 GREEN)
+("dragon" 512 430 10 306 GREEN)))

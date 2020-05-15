@@ -1,0 +1,6 @@
+(setf *image-struct* '(("26ee9400df75cae1011d8c6dc93fd273" 10 10 10 10 BLUE)
+("tooth" 0 430 10 464 GREEN)
+("jaw" 128 430 10 456 GREEN)
+("mouth" 256 430 10 411 GREEN)
+("organ" 384 430 10 403 GREEN)
+("dentistry" 512 430 10 345 GREEN)))

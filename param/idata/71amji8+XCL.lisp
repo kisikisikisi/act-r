@@ -1,0 +1,6 @@
+(setf *image-struct* '(("71amji8+XCL" 10 10 10 10 BLUE)
+("hair-coloring" 0 430 10 422 GREEN)
+("japanese-idol" 128 430 10 388 GREEN)
+("hime-cut" 256 430 10 319 GREEN)
+("uniform" 384 430 10 319 GREEN)
+("gravure-idol" 512 430 10 288 GREEN)))

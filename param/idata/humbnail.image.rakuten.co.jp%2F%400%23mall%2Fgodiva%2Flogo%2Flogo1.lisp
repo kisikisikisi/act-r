@@ -1,0 +1,6 @@
+(setf *image-struct* '(("humbnail.image.rakuten.co.jp%2F%400%23mall%2Fgodiva%2Flogo%2Flogo1" 10 10 10 10 BLUE)
+("logo" 0 430 10 446 GREEN)
+("font" 128 430 10 442 GREEN)
+("text" 256 430 10 435 GREEN)
+("graphics" 384 430 10 340 GREEN)
+("horse" 512 430 10 333 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("underarmour%2Flogo%2Flogo1" 10 10 10 10 BLUE)
+("logo" 0 430 10 418 GREEN)
+("font" 128 430 10 359 GREEN)
+("graphics" 256 430 10 276 GREEN)
+("symbol" 384 430 10 274 GREEN)
+("brand" 512 430 10 249 GREEN)))

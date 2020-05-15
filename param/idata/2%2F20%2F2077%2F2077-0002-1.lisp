@@ -1,0 +1,6 @@
+(setf *image-struct* '(("2%2F20%2F2077%2F2077-0002-1" 10 10 10 10 BLUE)
+("clothing" 0 430 10 470 GREEN)
+("trousers" 128 430 10 416 GREEN)
+("sportswear" 256 430 10 380 GREEN)
+("pocket" 384 430 10 371 GREEN)
+("leg" 512 430 10 352 GREEN)))

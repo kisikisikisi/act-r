@@ -1,0 +1,6 @@
+(setf *image-struct* '(("f-box%2Fnano%2Fll%2Fgm3007m%2320r4" 10 10 10 10 BLUE)
+("product" 0 430 10 448 GREEN)
+("machine" 128 430 10 364 GREEN)
+("leather" 256 430 10 334 GREEN)
+("printing" 384 430 10 312 GREEN)
+("label" 512 430 10 307 GREEN)))

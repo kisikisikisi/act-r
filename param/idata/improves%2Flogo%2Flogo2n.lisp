@@ -1,0 +1,5 @@
+(setf *image-struct* '(("improves%2Flogo%2Flogo2n" 10 10 10 10 BLUE)
+("text" 0 430 10 459 GREEN)
+("font" 160 430 10 428 GREEN)
+("brand" 320 430 10 320 GREEN)
+("trademark" 480 430 10 265 GREEN)))

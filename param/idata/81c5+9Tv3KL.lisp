@@ -1,0 +1,6 @@
+(setf *image-struct* '(("81c5+9Tv3KL" 10 10 10 10 BLUE)
+("psychedelic-art" 0 430 10 448 GREEN)
+("illustration" 128 430 10 396 GREEN)
+("art" 256 430 10 380 GREEN)
+("pattern" 384 430 10 354 GREEN)
+("design" 512 430 10 350 GREEN)))

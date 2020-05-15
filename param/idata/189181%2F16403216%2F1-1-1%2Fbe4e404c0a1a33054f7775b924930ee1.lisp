@@ -1,0 +1,2 @@
+(setf *image-struct* '(("189181%2F16403216%2F1-1-1%2Fbe4e404c0a1a33054f7775b924930ee1" 10 10 10 10 BLUE)
+("product" 0 430 10 456 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("mens%23bottoms06%2F9213-2026%2343" 10 10 10 10 BLUE)
+("jeans" 0 430 10 470 GREEN)
+("clothing" 128 430 10 469 GREEN)
+("denim" 256 430 10 468 GREEN)
+("trousers" 384 430 10 401 GREEN)
+("sweatpant" 512 430 10 378 GREEN)))

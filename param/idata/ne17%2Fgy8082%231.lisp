@@ -1,0 +1,6 @@
+(setf *image-struct* '(("ne17%2Fgy8082%231" 10 10 10 10 BLUE)
+("shoe" 0 430 10 478 GREEN)
+("footwear" 128 430 10 478 GREEN)
+("outdoor-shoe" 256 430 10 474 GREEN)
+("running-shoe" 384 430 10 469 GREEN)
+("athletic-shoe" 512 430 10 464 GREEN)))

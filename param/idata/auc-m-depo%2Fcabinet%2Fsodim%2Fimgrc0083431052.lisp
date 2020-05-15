@@ -1,0 +1,6 @@
+(setf *image-struct* '(("auc-m-depo%2Fcabinet%2Fsodim%2Fimgrc0083431052" 10 10 10 10 BLUE)
+("technology" 0 430 10 439 GREEN)
+("computer-component" 128 430 10 433 GREEN)
+("solid-state-drive" 256 430 10 428 GREEN)
+("electronic-device" 384 430 10 421 GREEN)
+("computer-hardware" 512 430 10 419 GREEN)))

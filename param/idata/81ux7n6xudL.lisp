@@ -1,0 +1,6 @@
+(setf *image-struct* '(("81ux7n6xudL" 10 10 10 10 BLUE)
+("clothing" 0 430 10 475 GREEN)
+("long-sleeved-t-shirt" 128 430 10 471 GREEN)
+("sleeve" 256 430 10 467 GREEN)
+("neck" 384 430 10 441 GREEN)
+("t-shirt" 512 430 10 438 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("img1%2Figf%2Fguide%2Fzak-swfilm-001" 10 10 10 10 BLUE)
+("gadget" 0 430 10 451 GREEN)
+("electronic-device" 128 430 10 451 GREEN)
+("video-game-accessory" 256 430 10 448 GREEN)
+("technology" 384 430 10 444 GREEN)
+("playstation-portable-accessory" 512 430 10 440 GREEN)))

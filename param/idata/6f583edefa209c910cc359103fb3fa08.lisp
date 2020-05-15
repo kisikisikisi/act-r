@@ -1,0 +1,6 @@
+(setf *image-struct* '(("6f583edefa209c910cc359103fb3fa08" 10 10 10 10 BLUE)
+("pink" 0 430 10 457 GREEN)
+("footwear" 128 430 10 400 GREEN)
+("finger" 256 430 10 324 GREEN)
+("shoe" 384 430 10 317 GREEN)
+("dance" 512 430 10 305 GREEN)))

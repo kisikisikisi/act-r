@@ -1,0 +1,6 @@
+(setf *image-struct* '(("gold%2Fmatch-shop%2Fimages%2F8025%2F8025" 10 10 10 10 BLUE)
+("clothing" 0 430 10 466 GREEN)
+("jeans" 128 430 10 460 GREEN)
+("denim" 256 430 10 440 GREEN)
+("leg" 384 430 10 403 GREEN)
+("footwear" 512 430 10 379 GREEN)))

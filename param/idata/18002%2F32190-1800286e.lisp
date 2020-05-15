@@ -1,0 +1,6 @@
+(setf *image-struct* '(("18002%2F32190-1800286e" 10 10 10 10 BLUE)
+("hair" 0 430 10 466 GREEN)
+("yellow" 128 430 10 423 GREEN)
+("hairstyle" 256 430 10 415 GREEN)
+("forehead" 384 430 10 414 GREEN)
+("neck" 512 430 10 353 GREEN)))

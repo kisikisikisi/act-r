@@ -1,0 +1,6 @@
+(setf *image-struct* '(("img271%2Ftilted-tor-112444%23l" 10 10 10 10 BLUE)
+("denim" 0 430 10 475 GREEN)
+("jeans" 128 430 10 475 GREEN)
+("clothing" 256 430 10 470 GREEN)
+("pocket" 384 430 10 437 GREEN)
+("trousers" 512 430 10 406 GREEN)))

@@ -1,0 +1,1 @@
+(trigger-reward 20)

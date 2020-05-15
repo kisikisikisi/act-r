@@ -1,0 +1,6 @@
+(setf *image-struct* '(("71MiNZhyYUL" 10 10 10 10 BLUE)
+("water-bottle" 0 430 10 401 GREEN)
+("vehicle" 128 430 10 345 GREEN)
+("drinkware" 256 430 10 342 GREEN)
+("car" 384 430 10 314 GREEN)
+("mug" 512 430 10 264 GREEN)))

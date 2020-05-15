@@ -1,0 +1,6 @@
+(setf *image-struct* '(("71dxnjJ32xL" 10 10 10 10 BLUE)
+("weights" 0 430 10 454 GREEN)
+("exercise-equipment" 128 430 10 401 GREEN)
+("room" 256 430 10 315 GREEN)
+("kettlebell" 384 430 10 290 GREEN)
+("dumbbell" 512 430 10 283 GREEN)))

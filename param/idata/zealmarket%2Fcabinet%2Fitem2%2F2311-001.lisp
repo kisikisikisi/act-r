@@ -1,0 +1,6 @@
+(setf *image-struct* '(("zealmarket%2Fcabinet%2Fitem2%2F2311-001" 10 10 10 10 BLUE)
+("shoe" 0 430 10 478 GREEN)
+("footwear" 128 430 10 478 GREEN)
+("brown" 256 430 10 439 GREEN)
+("dress-shoe" 384 430 10 437 GREEN)
+("brand" 512 430 10 360 GREEN)))

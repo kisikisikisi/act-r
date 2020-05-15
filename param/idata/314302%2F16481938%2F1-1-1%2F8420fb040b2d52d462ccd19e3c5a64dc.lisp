@@ -1,0 +1,5 @@
+(setf *image-struct* '(("314302%2F16481938%2F1-1-1%2F8420fb040b2d52d462ccd19e3c5a64dc" 10 10 10 10 BLUE)
+("product" 0 430 10 448 GREEN)
+("skin" 160 430 10 438 GREEN)
+("purple" 320 430 10 420 GREEN)
+("material-property" 480 430 10 335 GREEN)))

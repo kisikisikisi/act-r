@@ -1,0 +1,6 @@
+(setf *image-struct* '(("gelatopique%2Flogo%2Flogo1" 10 10 10 10 BLUE)
+("text" 0 430 10 461 GREEN)
+("font" 128 430 10 385 GREEN)
+("logo" 256 430 10 355 GREEN)
+("line" 384 430 10 350 GREEN)
+("trademark" 512 430 10 313 GREEN)))

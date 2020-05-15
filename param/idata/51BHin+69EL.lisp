@@ -1,0 +1,6 @@
+(setf *image-struct* '(("51BHin+69EL" 10 10 10 10 BLUE)
+("black" 0 430 10 458 GREEN)
+("product" 128 430 10 436 GREEN)
+("leather" 256 430 10 362 GREEN)
+("rectangle" 384 430 10 330 GREEN)
+("book-cover" 512 430 10 294 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("auc-worldichi%2Fcabinet%2Fsyouhinkategori01%2Fav01%2F01762876%2Fimgrc0074398032" 10 10 10 10 BLUE)
+("product" 0 430 10 423 GREEN)
+("technology" 128 430 10 324 GREEN)
+("electronic-device" 256 430 10 317 GREEN)
+("audio-equipment" 384 430 10 286 GREEN)
+("headphones" 512 430 10 264 GREEN)))

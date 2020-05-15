@@ -1,0 +1,6 @@
+(setf *image-struct* '(("41u11ogfMoL" 10 10 10 10 BLUE)
+("product" 0 430 10 463 GREEN)
+("skin" 128 430 10 434 GREEN)
+("skin-care" 256 430 10 390 GREEN)
+("cream" 384 430 10 373 GREEN)
+("material-property" 512 430 10 335 GREEN)))

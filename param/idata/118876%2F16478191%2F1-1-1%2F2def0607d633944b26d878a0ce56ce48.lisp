@@ -1,0 +1,6 @@
+(setf *image-struct* '(("118876%2F16478191%2F1-1-1%2F2def0607d633944b26d878a0ce56ce48" 10 10 10 10 BLUE)
+("food" 0 430 10 454 GREEN)
+("cuisine" 128 430 10 402 GREEN)
+("dish" 256 430 10 397 GREEN)
+("ingredient" 384 430 10 392 GREEN)
+("basmati" 512 430 10 311 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("06226890%2Fdk-grey-logo" 10 10 10 10 BLUE)
+("clothing" 0 430 10 469 GREEN)
+("black" 128 430 10 453 GREEN)
+("sleeve" 256 430 10 449 GREEN)
+("woolen" 384 430 10 443 GREEN)
+("outerwear" 512 430 10 435 GREEN)))

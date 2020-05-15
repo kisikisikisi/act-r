@@ -1,0 +1,6 @@
+(setf *image-struct* '(("menz-style%2Fcabinet%2Fitem%23page%2F07-820353%2F07-820353-m" 10 10 10 10 BLUE)
+("clothing" 0 430 10 459 GREEN)
+("footwear" 128 430 10 435 GREEN)
+("leg" 256 430 10 429 GREEN)
+("khaki" 384 430 10 425 GREEN)
+("beige" 512 430 10 395 GREEN)))

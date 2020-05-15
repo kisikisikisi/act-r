@@ -1,0 +1,5 @@
+(setf *image-struct* '(("938%2F10823938" 10 10 10 10 BLUE)
+("games" 0 430 10 465 GREEN)
+("recreation" 160 430 10 374 GREEN)
+("toy" 320 430 10 343 GREEN)
+("indoor-games-and-sports" 480 430 10 300 GREEN)))

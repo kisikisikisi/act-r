@@ -1,0 +1,6 @@
+(setf *image-struct* '(("kutsu-collection%2Fcabinet%2F1%2F12%2F1260%2F1260-0003-1" 10 10 10 10 BLUE)
+("shoe" 0 430 10 478 GREEN)
+("footwear" 128 430 10 478 GREEN)
+("brown" 256 430 10 420 GREEN)
+("font" 384 430 10 399 GREEN)
+("sneakers" 512 430 10 392 GREEN)))

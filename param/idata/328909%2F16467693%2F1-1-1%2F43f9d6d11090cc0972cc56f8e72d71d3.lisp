@@ -1,0 +1,6 @@
+(setf *image-struct* '(("328909%2F16467693%2F1-1-1%2F43f9d6d11090cc0972cc56f8e72d71d3" 10 10 10 10 BLUE)
+("face" 0 430 10 473 GREEN)
+("skin" 128 430 10 467 GREEN)
+("nose" 256 430 10 454 GREEN)
+("cheek" 384 430 10 439 GREEN)
+("chin" 512 430 10 438 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("91oF3jpxMjL" 10 10 10 10 BLUE)
+("technology" 0 430 10 341 GREEN)
+("fictional-character" 128 430 10 333 GREEN)
+("transformers" 256 430 10 312 GREEN)
+("games" 384 430 10 303 GREEN)
+("electronic-device" 512 430 10 292 GREEN)))

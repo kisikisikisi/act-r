@@ -1,0 +1,6 @@
+(setf *image-struct* '(("nuigurumi%2Fnuig#78#k" 10 10 10 10 BLUE)
+("stuffed-toy" 0 430 10 470 GREEN)
+("toy" 128 430 10 468 GREEN)
+("plush" 256 430 10 466 GREEN)
+("yellow" 384 430 10 452 GREEN)
+("cartoon" 512 430 10 447 GREEN)))

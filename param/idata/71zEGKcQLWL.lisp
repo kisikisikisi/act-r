@@ -1,0 +1,5 @@
+(setf *image-struct* '(("71zEGKcQLWL" 10 10 10 10 BLUE)
+("nintendo-ds-accessories" 0 430 10 343 GREEN)
+("video-game-accessory" 160 430 10 313 GREEN)
+("anime" 320 430 10 292 GREEN)
+("games" 480 430 10 250 GREEN)))

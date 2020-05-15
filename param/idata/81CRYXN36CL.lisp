@@ -1,0 +1,5 @@
+(setf *image-struct* '(("81CRYXN36CL" 10 10 10 10 BLUE)
+("technology" 0 430 10 427 GREEN)
+("electronic-device" 160 430 10 410 GREEN)
+("gadget" 320 430 10 259 GREEN)
+("games" 480 430 10 250 GREEN)))

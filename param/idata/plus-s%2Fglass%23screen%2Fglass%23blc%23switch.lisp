@@ -1,0 +1,6 @@
+(setf *image-struct* '(("plus-s%2Fglass%23screen%2Fglass%23blc%23switch" 10 10 10 10 BLUE)
+("gadget" 0 430 10 468 GREEN)
+("electronic-device" 128 430 10 459 GREEN)
+("playstation-portable-accessory" 256 430 10 456 GREEN)
+("technology" 384 430 10 452 GREEN)
+("video-game-accessory" 512 430 10 423 GREEN)))

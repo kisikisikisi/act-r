@@ -1,0 +1,5 @@
+(setf *image-struct* '(("jism%2Fcabinet%2F1356%2F4902370545319" 10 10 10 10 BLUE)
+("toy" 0 430 10 372 GREEN)
+("toy-block" 160 430 10 365 GREEN)
+("lego" 320 430 10 307 GREEN)
+("construction-set-toy" 480 430 10 242 GREEN)))

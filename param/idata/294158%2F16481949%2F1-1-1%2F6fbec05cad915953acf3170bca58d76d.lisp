@@ -1,0 +1,6 @@
+(setf *image-struct* '(("294158%2F16481949%2F1-1-1%2F6fbec05cad915953acf3170bca58d76d" 10 10 10 10 BLUE)
+("bag" 0 430 10 473 GREEN)
+("white" 128 430 10 460 GREEN)
+("shoulder" 256 430 10 459 GREEN)
+("product" 384 430 10 456 GREEN)
+("messenger-bag" 512 430 10 440 GREEN)))

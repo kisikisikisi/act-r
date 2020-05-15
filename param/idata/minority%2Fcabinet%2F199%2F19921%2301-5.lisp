@@ -1,0 +1,6 @@
+(setf *image-struct* '(("minority%2Fcabinet%2F199%2F19921%2301-5" 10 10 10 10 BLUE)
+("clothing" 0 430 10 475 GREEN)
+("jeans" 128 430 10 456 GREEN)
+("sportswear" 256 430 10 424 GREEN)
+("trousers" 384 430 10 420 GREEN)
+("leg" 512 430 10 381 GREEN)))

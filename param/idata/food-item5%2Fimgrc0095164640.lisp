@@ -1,0 +1,6 @@
+(setf *image-struct* '(("food-item5%2Fimgrc0095164640" 10 10 10 10 BLUE)
+("clothing" 0 430 10 475 GREEN)
+("black" 128 430 10 460 GREEN)
+("trousers" 256 430 10 422 GREEN)
+("suit" 384 430 10 412 GREEN)
+("suit-trousers" 512 430 10 393 GREEN)))

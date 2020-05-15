@@ -1,0 +1,5 @@
+(setf *image-struct* '(("5a787544675d9f5f608eee54f0da5577" 10 10 10 10 BLUE)
+("logo" 0 430 10 341 GREEN)
+("font" 160 430 10 329 GREEN)
+("trademark" 320 430 10 293 GREEN)
+("brand" 480 430 10 249 GREEN)))

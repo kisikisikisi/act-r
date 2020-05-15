@@ -1,0 +1,6 @@
+(setf *image-struct* '(("81FU+PT0JYL" 10 10 10 10 BLUE)
+("product" 0 430 10 456 GREEN)
+("plastic-bottle" 128 430 10 336 GREEN)
+("liquid" 256 430 10 319 GREEN)
+("skin-care" 384 430 10 317 GREEN)
+("cosmetics" 512 430 10 304 GREEN)))

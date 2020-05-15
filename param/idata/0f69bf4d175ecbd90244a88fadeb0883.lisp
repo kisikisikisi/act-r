@@ -1,0 +1,6 @@
+(setf *image-struct* '(("0f69bf4d175ecbd90244a88fadeb0883" 10 10 10 10 BLUE)
+("pearl" 0 430 10 466 GREEN)
+("jewellery" 128 430 10 414 GREEN)
+("skin" 256 430 10 412 GREEN)
+("fashion-accessory" 384 430 10 410 GREEN)
+("gemstone" 512 430 10 389 GREEN)))

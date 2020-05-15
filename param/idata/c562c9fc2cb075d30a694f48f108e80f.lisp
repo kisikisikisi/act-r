@@ -1,0 +1,5 @@
+(setf *image-struct* '(("c562c9fc2cb075d30a694f48f108e80f" 10 10 10 10 BLUE)
+("product" 0 430 10 466 GREEN)
+("food-storage-containers" 160 430 10 299 GREEN)
+("plastic" 320 430 10 266 GREEN)
+("lid" 480 430 10 247 GREEN)))

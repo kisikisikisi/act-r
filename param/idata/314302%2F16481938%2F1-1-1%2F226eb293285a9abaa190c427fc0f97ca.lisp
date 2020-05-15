@@ -1,0 +1,6 @@
+(setf *image-struct* '(("314302%2F16481938%2F1-1-1%2F226eb293285a9abaa190c427fc0f97ca" 10 10 10 10 BLUE)
+("text" 0 430 10 465 GREEN)
+("font" 128 430 10 464 GREEN)
+("logo" 256 430 10 436 GREEN)
+("line" 384 430 10 377 GREEN)
+("trademark" 512 430 10 377 GREEN)))

@@ -1,0 +1,5 @@
+(setf *image-struct* '(("06632766%2Fkg" 10 10 10 10 BLUE)
+("stuffed-toy" 0 430 10 471 GREEN)
+("plush" 160 430 10 468 GREEN)
+("toy" 320 430 10 433 GREEN)
+("textile" 480 430 10 396 GREEN)))

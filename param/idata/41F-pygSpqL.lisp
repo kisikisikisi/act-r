@@ -1,0 +1,6 @@
+(setf *image-struct* '(("41F-pygSpqL" 10 10 10 10 BLUE)
+("clothing" 0 430 10 472 GREEN)
+("sleeve" 128 430 10 465 GREEN)
+("long-sleeved-t-shirt" 256 430 10 459 GREEN)
+("t-shirt" 384 430 10 451 GREEN)
+("neck" 512 430 10 442 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("auc-kutsu-nishimura%2Fcabinet%2Fne15%2Fspltm157%231%232" 10 10 10 10 BLUE)
+("shoe" 0 430 10 478 GREEN)
+("footwear" 128 430 10 478 GREEN)
+("outdoor-shoe" 256 430 10 441 GREEN)
+("walking-shoe" 384 430 10 411 GREEN)
+("sneakers" 512 430 10 406 GREEN)))

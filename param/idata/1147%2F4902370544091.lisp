@@ -1,0 +1,6 @@
+(setf *image-struct* '(("1147%2F4902370544091" 10 10 10 10 BLUE)
+("gadget" 0 430 10 471 GREEN)
+("playstation-portable-accessory" 128 430 10 466 GREEN)
+("electronic-device" 256 430 10 455 GREEN)
+("technology" 384 430 10 447 GREEN)
+("handheld-game-console" 512 430 10 445 GREEN)))

@@ -1,0 +1,5 @@
+(setf *image-struct* '(("book%2Fcabinet%2F5319%2F4902370545319" 10 10 10 10 BLUE)
+("toy-block" 0 430 10 354 GREEN)
+("technology" 160 430 10 324 GREEN)
+("toy" 320 430 10 320 GREEN)
+("lego" 480 430 10 273 GREEN)))

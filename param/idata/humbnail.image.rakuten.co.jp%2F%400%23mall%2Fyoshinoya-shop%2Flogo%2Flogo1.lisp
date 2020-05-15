@@ -1,0 +1,6 @@
+(setf *image-struct* '(("humbnail.image.rakuten.co.jp%2F%400%23mall%2Fyoshinoya-shop%2Flogo%2Flogo1" 10 10 10 10 BLUE)
+("text" 0 430 10 442 GREEN)
+("font" 128 430 10 436 GREEN)
+("label" 256 430 10 352 GREEN)
+("logo" 384 430 10 338 GREEN)
+("banner" 512 430 10 278 GREEN)))

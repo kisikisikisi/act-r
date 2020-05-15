@@ -1,0 +1,6 @@
+(setf *image-struct* '(("thinkform%2Fcabinet%2F06439505%2Fimgrc0073328886" 10 10 10 10 BLUE)
+("shoe" 0 430 10 478 GREEN)
+("footwear" 128 430 10 478 GREEN)
+("sneakers" 256 430 10 438 GREEN)
+("plimsoll-shoe" 384 430 10 407 GREEN)
+("font" 512 430 10 375 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("17016%2F32575-1701626e" 10 10 10 10 BLUE)
+("clothing" 0 430 10 470 GREEN)
+("woolen" 128 430 10 460 GREEN)
+("wool" 256 430 10 441 GREEN)
+("sweater" 384 430 10 428 GREEN)
+("sleeve" 512 430 10 426 GREEN)))

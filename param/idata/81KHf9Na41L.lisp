@@ -1,0 +1,6 @@
+(setf *image-struct* '(("81KHf9Na41L" 10 10 10 10 BLUE)
+("product" 0 430 10 462 GREEN)
+("technology" 128 430 10 394 GREEN)
+("electronic-device" 256 430 10 384 GREEN)
+("small-appliance" 384 430 10 336 GREEN)
+("material-property" 512 430 10 335 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("pc-hiraku%2Fcabinet%2F03196714%2Fimgrc0071940945" 10 10 10 10 BLUE)
+("electronics-accessory" 0 430 10 447 GREEN)
+("electronic-device" 128 430 10 441 GREEN)
+("technology" 256 430 10 430 GREEN)
+("adapter" 384 430 10 427 GREEN)
+("ac-adapter" 512 430 10 417 GREEN)))

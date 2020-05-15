@@ -1,0 +1,6 @@
+(setf *image-struct* '(("144248%2F16483138%2F1-1-1%2F5aaa2f82cc2281e47396306b39b36943" 10 10 10 10 BLUE)
+("bag" 0 430 10 460 GREEN)
+("handbag" 128 430 10 432 GREEN)
+("shoulder" 256 430 10 411 GREEN)
+("luggage-and-bags" 384 430 10 393 GREEN)
+("travel" 512 430 10 392 GREEN)))

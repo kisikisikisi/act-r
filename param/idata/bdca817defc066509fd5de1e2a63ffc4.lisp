@@ -1,0 +1,6 @@
+(setf *image-struct* '(("bdca817defc066509fd5de1e2a63ffc4" 10 10 10 10 BLUE)
+("abdomen" 0 430 10 381 GREEN)
+("arm" 128 430 10 362 GREEN)
+("muscle" 256 430 10 359 GREEN)
+("t-shirt" 384 430 10 358 GREEN)
+("font" 512 430 10 329 GREEN)))

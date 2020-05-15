@@ -1,0 +1,6 @@
+(setf *image-struct* '(("04912746%2Fpokemon%2Fimgrc0066230869" 10 10 10 10 BLUE)
+("stuffed-toy" 0 430 10 474 GREEN)
+("toy" 128 430 10 473 GREEN)
+("plush" 256 430 10 469 GREEN)
+("yellow" 384 430 10 459 GREEN)
+("textile" 512 430 10 392 GREEN)))

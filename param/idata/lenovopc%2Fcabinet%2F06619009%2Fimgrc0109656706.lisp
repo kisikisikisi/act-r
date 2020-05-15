@@ -1,0 +1,6 @@
+(setf *image-struct* '(("lenovopc%2Fcabinet%2F06619009%2Fimgrc0109656706" 10 10 10 10 BLUE)
+("laptop" 0 430 10 475 GREEN)
+("netbook" 128 430 10 462 GREEN)
+("electronic-device" 256 430 10 456 GREEN)
+("technology" 384 430 10 454 GREEN)
+("product" 512 430 10 454 GREEN)))

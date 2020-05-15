@@ -1,0 +1,6 @@
+(setf *image-struct* '(("oa-plaza%2Fcabinet%2Fnotepc%2Fblank%2Flenovo%2Fx230" 10 10 10 10 BLUE)
+("laptop" 0 430 10 476 GREEN)
+("netbook" 128 430 10 461 GREEN)
+("electronic-device" 256 430 10 447 GREEN)
+("technology" 384 430 10 445 GREEN)
+("personal-computer" 512 430 10 439 GREEN)))

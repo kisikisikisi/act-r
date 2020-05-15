@@ -1,0 +1,5 @@
+(setf *image-struct* '(("715cWj56YrL" 10 10 10 10 BLUE)
+("anime" 0 430 10 343 GREEN)
+("home-game-console-accessory" 160 430 10 280 GREEN)
+("mobile-phone-case" 320 430 10 258 GREEN)
+("fictional-character" 480 430 10 253 GREEN)))

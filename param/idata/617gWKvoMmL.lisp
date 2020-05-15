@@ -1,0 +1,6 @@
+(setf *image-struct* '(("617gWKvoMmL" 10 10 10 10 BLUE)
+("liqueur" 0 430 10 462 GREEN)
+("drink" 128 430 10 447 GREEN)
+("alcoholic-beverage" 256 430 10 422 GREEN)
+("distilled-beverage" 384 430 10 355 GREEN)
+("bottle" 512 430 10 348 GREEN)))

@@ -1,0 +1,6 @@
+(setf *image-struct* '(("pokemon%2Fs%23self%23thum" 10 10 10 10 BLUE)
+("product" 0 430 10 444 GREEN)
+("pink" 128 430 10 435 GREEN)
+("yellow" 256 430 10 401 GREEN)
+("magenta" 384 430 10 351 GREEN)
+("material-property" 512 430 10 344 GREEN)))

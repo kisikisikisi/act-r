@@ -1,0 +1,6 @@
+(setf *image-struct* '(("tshirt-st%2Fcabinet%2Fpd6%2F325acp-01" 10 10 10 10 BLUE)
+("clothing" 0 430 10 472 GREEN)
+("board-short" 128 430 10 459 GREEN)
+("shorts" 256 430 10 450 GREEN)
+("active-shorts" 384 430 10 443 GREEN)
+("sportswear" 512 430 10 418 GREEN)))

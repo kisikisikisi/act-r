@@ -1,0 +1,6 @@
+(setf *image-struct* '(("thinkpad%2Fx240s%233" 10 10 10 10 BLUE)
+("laptop" 0 430 10 473 GREEN)
+("laptop-part" 128 430 10 456 GREEN)
+("electronic-device" 256 430 10 447 GREEN)
+("technology" 384 430 10 447 GREEN)
+("netbook" 512 430 10 429 GREEN)))

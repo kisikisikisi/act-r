@@ -1,0 +1,6 @@
+(setf *image-struct* '(("auc-kiyoshishoji%2Fcabinet%2Fsuper%2Fconsumer%2Fimgrc0070315336" 10 10 10 10 BLUE)
+("laptop" 0 430 10 476 GREEN)
+("netbook" 128 430 10 464 GREEN)
+("electronic-device" 256 430 10 460 GREEN)
+("technology" 384 430 10 459 GREEN)
+("multimedia" 512 430 10 446 GREEN)))

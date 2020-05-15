@@ -1,0 +1,6 @@
+(setf *image-struct* '(("humbnail.image.rakuten.co.jp%2F%400%23mall%2Fadidas%2Flogo%2Flogo1" 10 10 10 10 BLUE)
+("text" 0 430 10 461 GREEN)
+("black" 128 430 10 455 GREEN)
+("logo" 256 430 10 454 GREEN)
+("font" 384 430 10 447 GREEN)
+("brand" 512 430 10 414 GREEN)))

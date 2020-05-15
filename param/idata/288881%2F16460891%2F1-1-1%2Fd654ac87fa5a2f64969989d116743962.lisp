@@ -1,0 +1,3 @@
+(setf *image-struct* '(("288881%2F16460891%2F1-1-1%2Fd654ac87fa5a2f64969989d116743962" 10 10 10 10 BLUE)
+("water" 0 430 10 387 GREEN)
+("drink" 320 430 10 325 GREEN)))

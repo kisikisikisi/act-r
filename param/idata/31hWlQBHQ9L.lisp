@@ -1,0 +1,6 @@
+(setf *image-struct* '(("31hWlQBHQ9L" 10 10 10 10 BLUE)
+("wing" 0 430 10 394 GREEN)
+("figurine" 128 430 10 363 GREEN)
+("fictional-character" 256 430 10 333 GREEN)
+("animal-figure" 384 430 10 294 GREEN)
+("statue" 512 430 10 271 GREEN)))

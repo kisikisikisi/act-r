@@ -1,0 +1,6 @@
+(setf *image-struct* '(("dec5413ea0195853093d28d7907b468c" 10 10 10 10 BLUE)
+("symbol" 0 430 10 360 GREEN)
+("logo" 128 430 10 330 GREEN)
+("heart" 256 430 10 319 GREEN)
+("love" 384 430 10 277 GREEN)
+("graphics" 512 430 10 241 GREEN)))

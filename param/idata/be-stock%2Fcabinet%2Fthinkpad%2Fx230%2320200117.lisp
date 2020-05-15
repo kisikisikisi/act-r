@@ -1,0 +1,6 @@
+(setf *image-struct* '(("be-stock%2Fcabinet%2Fthinkpad%2Fx230%2320200117" 10 10 10 10 BLUE)
+("laptop" 0 430 10 476 GREEN)
+("netbook" 128 430 10 460 GREEN)
+("electronic-device" 256 430 10 452 GREEN)
+("technology" 384 430 10 451 GREEN)
+("laptop-part" 512 430 10 435 GREEN)))

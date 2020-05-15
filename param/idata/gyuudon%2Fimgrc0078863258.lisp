@@ -1,0 +1,6 @@
+(setf *image-struct* '(("gyuudon%2Fimgrc0078863258" 10 10 10 10 BLUE)
+("food" 0 430 10 475 GREEN)
+("cuisine" 128 430 10 473 GREEN)
+("dish" 256 430 10 454 GREEN)
+("ingredient" 384 430 10 441 GREEN)
+("produce" 512 430 10 347 GREEN)))

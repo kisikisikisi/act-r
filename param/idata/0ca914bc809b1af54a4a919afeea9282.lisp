@@ -1,0 +1,6 @@
+(setf *image-struct* '(("0ca914bc809b1af54a4a919afeea9282" 10 10 10 10 BLUE)
+("helmet" 0 430 10 426 GREEN)
+("cap" 128 430 10 376 GREEN)
+("headgear" 256 430 10 355 GREEN)
+("font" 384 430 10 329 GREEN)
+("technology" 512 430 10 324 GREEN)))

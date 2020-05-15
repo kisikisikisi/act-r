@@ -1,0 +1,6 @@
+(setf *image-struct* '(("51FUBh4XnlL" 10 10 10 10 BLUE)
+("rice-cooker" 0 430 10 454 GREEN)
+("small-appliance" 128 430 10 421 GREEN)
+("home-appliance" 256 430 10 411 GREEN)
+("kitchen-appliance" 384 430 10 380 GREEN)
+("pressure-cooker" 512 430 10 327 GREEN)))
